@@ -1,4 +1,4 @@
-# karthikraj04-Fraud-Detection-in-UPI-Transactions
+# Fraud-Detection-in-UPI-Transactions
 
 This project focuses on detecting fraudulent UPI transactions using clustering (K-Means, GMM) and classification (Random Forest). It analyzes transaction patterns like amount, time, and sender-receiver relationships to identify suspicious behavior.
 
